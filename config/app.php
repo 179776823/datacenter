@@ -154,6 +154,5 @@ return [
     'digest_password' => 'admin',
 
     'data_key' => 'admin12345'
-
     
 ];
