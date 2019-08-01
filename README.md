@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # datacenter
 数据服务器，用于接收人脸、车牌抓拍、进出口、usb等服务器的数据接口
 =======
+=======
+>>>>>>> 3db54f4c1301ada98aa89efd3e5ccf21130dfd5d
 ThinkPHP 5.1
 ===============
 
@@ -161,4 +164,7 @@ All rights reserved。
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
+<<<<<<< HEAD
 >>>>>>> 首次提交
+=======
+>>>>>>> 3db54f4c1301ada98aa89efd3e5ccf21130dfd5d
