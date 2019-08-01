@@ -1737,5 +1737,4 @@ class Device
         }
 
     }
-
 }
